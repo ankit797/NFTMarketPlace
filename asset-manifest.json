@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/NFTMarketPlace/static/css/main.575a758e.chunk.css",
+    "main.js": "/NFTMarketPlace/static/js/main.1c3eb06b.chunk.js",
+    "main.js.map": "/NFTMarketPlace/static/js/main.1c3eb06b.chunk.js.map",
+    "runtime-main.js": "/NFTMarketPlace/static/js/runtime-main.d10a46c7.js",
+    "runtime-main.js.map": "/NFTMarketPlace/static/js/runtime-main.d10a46c7.js.map",
+    "static/js/2.fe209294.chunk.js": "/NFTMarketPlace/static/js/2.fe209294.chunk.js",
+    "static/js/2.fe209294.chunk.js.map": "/NFTMarketPlace/static/js/2.fe209294.chunk.js.map",
+    "index.html": "/NFTMarketPlace/index.html",
+    "static/css/main.575a758e.chunk.css.map": "/NFTMarketPlace/static/css/main.575a758e.chunk.css.map",
+    "static/js/2.fe209294.chunk.js.LICENSE.txt": "/NFTMarketPlace/static/js/2.fe209294.chunk.js.LICENSE.txt",
+    "static/media/home.7fc4253e.png": "/NFTMarketPlace/static/media/home.7fc4253e.png",
+    "static/media/release1.0c482aba.png": "/NFTMarketPlace/static/media/release1.0c482aba.png",
+    "static/media/release2.d54e21ff.png": "/NFTMarketPlace/static/media/release2.d54e21ff.png",
+    "static/media/signup.12cb0fcd.png": "/NFTMarketPlace/static/media/signup.12cb0fcd.png",
+    "static/media/super1.1fbdfb3a.png": "/NFTMarketPlace/static/media/super1.1fbdfb3a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d10a46c7.js",
+    "static/js/2.fe209294.chunk.js",
+    "static/css/main.575a758e.chunk.css",
+    "static/js/main.1c3eb06b.chunk.js"
+  ]
+}
